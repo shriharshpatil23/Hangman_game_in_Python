@@ -1,1 +1,3 @@
 # Hangman_game_in_Python
+Created Hangman game, this game is a guessing game. You have guess the word of given length ,and you will be provided with 10 turns. If you guess the letter correct ypur turns will not be deducted and if you guessed it wrong the turns will be deducted by 1 after every wrong guess .After you are done all 10 turns and you can't guess the word the man is Hanged to Death .So this game is known as Hangman Game.
+In this basic project learnt about different libraries and modules such "RANDOM" in Python. Also learnt about managing and keeping code readable and minimalist. This project is done while studying Python for Machine Learning and Artificial Intelligence.
